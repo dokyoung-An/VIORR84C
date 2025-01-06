@@ -2233,7 +2233,7 @@
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" transparent="0" height="2000" type="file" index="0" title="" zoomlevels="1" tileformat="jpg" id="FloorPlan01" floorplannorth="0" width="2000"/>
+  <map bgcolor="rgba(255, 255, 255, 0)" crispedges="0" transparent="1" height="2000" type="file" index="0" title="" zoomlevels="1" tileformat="png" id="FloorPlan01" floorplannorth="0" width="2000"/>
   <map bgcolor="rgba(255, 255, 255, 0)" crispedges="0" transparent="1" height="2000" type="file" index="1" title="" zoomlevels="1" tileformat="png" id="FloorPlan02" floorplannorth="0" width="2000"/>
   <map bgcolor="rgba(255, 255, 255, 0)" crispedges="0" transparent="1" height="2000" type="file" index="2" title="" zoomlevels="1" tileformat="png" id="FloorPlan03" floorplannorth="0" width="2000"/>
   <map bgcolor="rgba(255, 255, 255, 0)" crispedges="0" transparent="1" height="2000" type="file" index="3" title="" zoomlevels="1" tileformat="png" id="FloorPlan04" floorplannorth="0" width="2000"/>
